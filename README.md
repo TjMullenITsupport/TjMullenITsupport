@@ -7,13 +7,9 @@
 /osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TjMullenITsupport
 /post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/TjMullenITsupport
-/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TjMullenITsupport
+  - [Creating Resource Group and Virtual Machine in Azure](https://github.com/TjMullenITsupport
 /Resource Group and Virtual Machine)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TjMullenITsupport
-/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
